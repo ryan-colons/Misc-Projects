@@ -1,2 +1,2 @@
 # Misc-Projects
-A collection of little games/demos I have made / am making.
+A collection of little games I have made.
